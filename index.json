@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "patchy",
+  "versions": [
+    {
+      "commit": "8f3f9bf0c0ebda7e53fa1192527b4a02e8254ced",
+      "tag": "",
+      "parsed_at": "2026-10-20T09:50:13.829137+00:00"
+    }
+  ]
+}
