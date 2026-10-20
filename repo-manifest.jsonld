@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/patchy/commit/8f3f9bf0c0ebda7e53fa1192527b4a02e8254ced",
       "git:hexsha": "8f3f9bf0c0ebda7e53fa1192527b4a02e8254ced",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/patchy/commit/cd3ebbd8d2cf9a1f8c1b70677ac98d58fb11461a",
